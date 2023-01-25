@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 #Adding config.py file.
 api_keys.py
+api_keys_Copy1
 # C extensions
 *.so
 

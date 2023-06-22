@@ -54,5 +54,3 @@ VacationPy focuses on utilizing weather data for vacation planning. The key step
 ## Conclusion
 
 The Python API Challenge allowed for the practical application of Python programming skills in data retrieval, visualization, and analysis. It demonstrated proficiency in working with APIs, leveraging external libraries, and drawing insights from weather data. The project provides a solid foundation for further exploration and expansion in the realm of data-driven decision-making.
-
-Feel free to customize the README file according to your project's specific details and structure.
